@@ -1,6 +1,6 @@
-![image](https://github.com/ved-et9/Decentralized_Lottery/assets/98445270/1176a5b8-e491-426f-9868-84e6488bbb7c)
 
-#Decntralized Lottery System
+#Decntraliz ed Lottery System![Untitled presentation](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7a91fc19-5fa9-4ca9-baf8-601ff0f3116a)
+
 
 1. User can participate in the lottery using ETH based
 
