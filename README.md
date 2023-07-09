@@ -1,4 +1,3 @@
-
 ![image](https://github.com/ved-et9/Decentralized_Lottery/assets/98445270/1176a5b8-e491-426f-9868-84e6488bbb7c)
 
 #Decntralized Lottery System
