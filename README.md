@@ -14,11 +14,16 @@ Decentralized lottery system project revolutionizes the concept of lotteries by 
 ![Screenshot 2023-07-09 194519](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/a1172031-c56f-4e7a-8899-1d4c43ac6911)
 
 ![Screenshot 2023-07-09 194605](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/b3c3cdc4-63aa-4a44-abf6-813f9809ed6a)
-![Screenshot 2023-07-09 194727](https://github.com/ved-et9/Decent![Screenshot 2023-07-09 194757](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/bed13c8f-dcc4-4377-b8b9-c4b3a0f59b42)
-alized_Lottery/assets/98445270/3f567c1f-9a1c-42b7-9cb7-eef9ef0cb427)
+
+![Screenshot 2023-07-09 194727](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/3f567c1f-9a1c-42b7-9cb7-eef9ef0cb427)
+
+![Screenshot 2023-07-09 194757](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/bed13c8f-dcc4-4377-b8b9-c4b3a0f59b42)
 
 ## Tools Used
 
+https://soliditylang.org/images/logo.svg
+https://avatars.githubusercontent.com/u/55654090?s=48&v=4
+![download](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/9ae9fe50-cec8-49b8-a8a7-7386226a3876)
 
 
 
