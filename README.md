@@ -1,4 +1,4 @@
-
+![download1](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/4fe188d1-7622-40ff-93cf-28e933fefe2d)
 ![Untitled presentation](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7a91fc19-5fa9-4ca9-baf8-601ff0f3116a)
 
 
@@ -20,19 +20,20 @@ Decentralized lottery system project revolutionizes the concept of lotteries by 
 ![Screenshot 2023-07-09 194757](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/bed13c8f-dcc4-4377-b8b9-c4b3a0f59b42)
 
 ## Tools Used
-![download (2)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/6c8b42ce-fc56-4ba3-8d23-95b813bc77f3)
 
-![download2](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7b07f4f1-8fbd-4613-a468-7ad28f5c350a)
-
-![download (1)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/173d47c3-f306-4d1d-b1ad-2e66714fff8e)
-
-![download1](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/994e6415-7bca-4fde-a594-2dd39fbd8635)
+![download2](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/3a051704-7794-40cc-a1d8-d620ce040fa3)
 
 
-![download](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/34ac8480-faf6-4725-8a0a-9730fd219b23)
+![download1](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7c92fced-aba1-4acf-a4b2-f75d027fac46)
 
-![download](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/9ae9fe50-cec8-49b8-a8a7-7386226a3876)
+![download (2)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/5c90f097-5aa3-4438-814d-60e234739a72)
 
+
+![download (1)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/2bc8dd8c-aff7-43db-b557-d18a2e75bb9a)
+
+![download (4)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/18d8d759-ff21-4082-9c06-342a0a366096)
+
+![download (3)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/d2a4a86b-dc06-450e-aed6-965ef956c01a)
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
