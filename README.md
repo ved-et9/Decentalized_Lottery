@@ -20,9 +20,16 @@ Decentralized lottery system project revolutionizes the concept of lotteries by 
 ![Screenshot 2023-07-09 194757](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/bed13c8f-dcc4-4377-b8b9-c4b3a0f59b42)
 
 ## Tools Used
+![download (2)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/6c8b42ce-fc56-4ba3-8d23-95b813bc77f3)
 
-https://soliditylang.org/images/logo.svg
-https://avatars.githubusercontent.com/u/55654090?s=48&v=4
+![download2](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7b07f4f1-8fbd-4613-a468-7ad28f5c350a)
+
+![download (1)](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/173d47c3-f306-4d1d-b1ad-2e66714fff8e)
+
+![download1](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/994e6415-7bca-4fde-a594-2dd39fbd8635)
+
+![download](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/413aa250-163a-42fc-a109-d3448efb8d46)
+
 ![download](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/9ae9fe50-cec8-49b8-a8a7-7386226a3876)
 
 
