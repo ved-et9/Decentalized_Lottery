@@ -1,4 +1,4 @@
-![download1](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/4fe188d1-7622-40ff-93cf-28e933fefe2d)
+
 ![Untitled presentation](https://github.com/ved-et9/Decentalized_Lottery/assets/98445270/7a91fc19-5fa9-4ca9-baf8-601ff0f3116a)
 
 
