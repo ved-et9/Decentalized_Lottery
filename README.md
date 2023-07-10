@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Example Template
+# Info
 Decentralized lottery system project revolutionizes the concept of lotteries by harnessing the power of blockchain technology. Built upon a decentralized network, the platform ensures transparency, fairness, and security for participants worldwide. Through smart contracts encoded on the blockchain, we have created a trustless environment where lottery rules, ticket sales, and prize distribution are automatically executed without the need for intermediaries. With our system, participants can enjoy provably fair draws, instant and secure payments using cryptocurrency, and higher payout percentages. By eliminating centralized authorities and leveraging the immutability of the blockchain, we aim to redefine the lottery industry and provide a truly decentralized and rewarding experience for all.
 
 
